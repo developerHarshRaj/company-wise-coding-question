@@ -17,7 +17,7 @@ public class LinkedList {
 
 	public ListNode middleNode(ListNode head) {
 		int count = 0;
-		ListNode tempNode = head;
+		ListNode tempNode = head; //fjgjghh
 		while (tempNode != null) {
 			count++;
 			tempNode = tempNode.next;
